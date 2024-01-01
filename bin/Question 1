@@ -1,0 +1,11 @@
+void main() {
+
+int length = 10;
+int breadth = 10;
+
+if (length == breadth) {
+print("The dimensions represent a square.");
+} else {
+print("The dimensions represent a rectangle.");
+}
+}
